@@ -11,13 +11,14 @@
 [<image width="40px" src="logo/html-5-logo-svgrepo-com.svg"/>](https://www.w3.org/html/)
 [<image width="40px" src="logo/css-3-svgrepo-com.svg"/>](https://www.w3schools.com/css/)
 
-###
+### Portfolio
+website layout on [<image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
 
-[<image width="40" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
-
+#### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Connect with me:
+[<image alt="Github" width="40" hspace="3" src="logo/github-142-svgrepo-com.svg"/>](https://github.com/steelykt)
 [<image alt="Telegram" width="40" hspace="3" src="logo/telegram.svg"/>](https://t.me/ArsenBud)
 [<image alt="WhatsApp" width="40" hspace="3" src="logo/WhatsApp_logo-color-vertical.svg"/>](https://api.whatsapp.com/send?phone=79248608666)
 
