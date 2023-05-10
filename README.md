@@ -12,8 +12,8 @@
 [<image width="40px" src="logo/css-3-svgrepo-com.svg"/>](https://www.w3schools.com/css/)
 
 ### My works
--Diplom project [diplom repository](https://github.com/steelykt/VKinder)
--website layout [<image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
+- Diplom project [diplom repository](https://github.com/steelykt/VKinder)
+- website layout [<image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
