@@ -13,10 +13,10 @@
 
 ###
 
-[<image width="40px" src="https://assets.codepen.io/t-1/codepen-logo.svg"/>](https://codepen.io/steelykt)
+[<image src="https://assets.codepen.io/t-1/codepen-logo.svg"/>](https://codepen.io/steelykt)
 
 #### Connect with me:
 [<image alt="Telegram" width="40" hspace="3" src="logo/telegram.svg"/>](https://t.me/ArsenBud)
-[<image alt="Telegram" width="40" hspace="3" src="logo/WhatsApp-Logo.wine.svg"/>](https://api.whatsapp.com/send?phone=79248608666)
+[<image alt="WhatsApp" hspace="3" src="logo/WhatsApp-Logo.wine.svg"/>](https://api.whatsapp.com/send?phone=79248608666)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
