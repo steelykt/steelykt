@@ -13,11 +13,11 @@
 
 ###
 
-[<image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
+[<image width="40" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Connect with me:
 [<image alt="Telegram" width="40" hspace="3" src="logo/telegram.svg"/>](https://t.me/ArsenBud)
-[<image alt="WhatsApp" width="80" hspace="3" src="logo/WhatsApp_logo-color-vertical.svg"/>](https://api.whatsapp.com/send?phone=79248608666)
+[<image alt="WhatsApp" width="40" hspace="3" src="logo/WhatsApp_logo-color-vertical.svg"/>](https://api.whatsapp.com/send?phone=79248608666)
 
