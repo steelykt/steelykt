@@ -12,7 +12,7 @@
 [<image width="40px" src="logo/css-3-svgrepo-com.svg"/>](https://www.w3schools.com/css/)
 
 ### My works
-- Diplom project [diplom repository](https://github.com/steelykt/VKinder)
+- [Diplom project](https://github.com/steelykt/VKinder)
 - website layout [<image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
 
 #### Stats
