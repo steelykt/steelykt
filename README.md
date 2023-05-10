@@ -13,7 +13,7 @@
 
 ### My works
 - [Diplom project](https://github.com/steelykt/VKinder)
-- website layout [<image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
+- [Website layout <image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
