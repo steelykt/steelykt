@@ -16,11 +16,9 @@
 [<image width="40px" src="logo/vscode.svg"/>](https://code.visualstudio.com/)
 
 ### My courses and trainings
-- 
-
-### My works
 - [Diplom project <image width="100" src="logo/Netology_logo.svg"/>](https://github.com/steelykt/VKinder)
 - [Website layout <image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
+- [Examples <image width="80" src="logo/replit-seeklogo.com.svg"/>](https://replit.com/@steelykt)
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
