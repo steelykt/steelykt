@@ -22,4 +22,4 @@
 [<image alt="Github" width="40" hspace="3" src="logo/github-142-svgrepo-com.svg"/>](https://github.com/steelykt)
 [<image alt="Telegram" width="40" hspace="3" src="logo/telegram.svg"/>](https://t.me/ArsenBud)
 [<image alt="WhatsApp" width="40" hspace="3" src="logo/WhatsApp_logo-color-vertical.svg"/>](https://api.whatsapp.com/send?phone=79248608666)
-[<a href="mailto:a.budishchev@mail.ru"><width="40" hspace="3" src="logo/Mail_31108.png"/></a>)
+[<a href="mailto:a.budishchev@mail.ru"><image src="logo/Mail_31108.png" width="40"/></a>)
