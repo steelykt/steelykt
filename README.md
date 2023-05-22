@@ -20,7 +20,7 @@
 - [Website layout <image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
 - [Examples <image width="80" src="logo/replit-seeklogo.com.svg"/>](https://replit.com/@steelykt)
 
-![<img align="right" width="150" height="150"/>](https://github.com/steelykt/steelykt/assets/82206118/f24aaede-32e3-4478-b3d0-c85fd398e22f)
+![<img align="right" width="150" height="150" src="https://github.com/steelykt/steelykt/assets/82206118/f24aaede-32e3-4478-b3d0-c85fd398e22f"/>]
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
