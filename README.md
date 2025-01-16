@@ -15,11 +15,11 @@
 [<image width="40px" src="logo/pycharm_01.svg"/>](https://www.jetbrains.com/ru-ru/pycharm/)
 [<image width="40px" src="logo/vscode.svg"/>](https://code.visualstudio.com/)
 
+
 ### My courses and trainings 
 - [Diplom project <image width="100" src="logo/Netology_logo.svg"/>](https://github.com/steelykt/VKinder)
 - [Website layout <image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
 - [Examples <image width="80" src="logo/replit-seeklogo.com.svg"/>](https://replit.com/@steelykt)
-<img width="300" height="170" src="https://github.com/steelykt/steelykt/assets/82206118/f24aaede-32e3-4478-b3d0-c85fd398e22f"/>
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
