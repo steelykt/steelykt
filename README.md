@@ -20,7 +20,7 @@
 - [Diplom project <image width="100" src="logo/Netology_logo.svg"/>](https://github.com/steelykt/VKinder)
 - [Website layout <image width="80" src="logo/codepen-official.svg"/>](https://codepen.io/steelykt)
 - [Examples <image width="80" src="logo/replit-seeklogo.com.svg"/>](https://replit.com/@steelykt)
-- [Yandex Practicum <image width="100" src="logo/practicum.png"/>](https://practicum.yandex.ru/)
+- [Yandex Practicum <image width="100" src="logo/Practicum.svg"/>](https://practicum.yandex.ru/)
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelykt)](https://github.com/anuraghazra/github-readme-stats)
