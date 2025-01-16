@@ -14,7 +14,8 @@
 ## I'm using
 [<image width="40px" src="logo/pycharm_01.svg"/>](https://www.jetbrains.com/ru-ru/pycharm/)
 [<image width="40px" src="logo/vscode.svg"/>](https://code.visualstudio.com/)
-
+[<image width="40px" src="![image](https://github.com/user-attachments/assets/a2e1ea91-4d36-49c3-bf33-10a4b4813425)
+"/>](https://jupyter.org/)
 
 ### My courses and trainings 
 - [Diplom project <image width="100" src="logo/Netology_logo.svg"/>](https://github.com/steelykt/VKinder)
